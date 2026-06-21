@@ -11,3 +11,5 @@ Key kopieren und als deploy key ins Repo einfügen
 testen:
 
 ssh -T git@github.com
+
+git clone git@github.com:Harvester061993TC/humidity_sampler.git
