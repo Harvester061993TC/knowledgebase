@@ -1,0 +1,1 @@
+https://de.wikibooks.org/wiki/Linux-Praxisbuch/_Verzeichnisse_unter_Linux#/opt
